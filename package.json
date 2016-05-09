@@ -1,0 +1,22 @@
+{
+  "name": "presidential-election-data",
+  "version": "1.0.0",
+  "description": "unofficial repository, no affiliation with the FEC",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "4.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandly/presidential-election-data.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandly/presidential-election-data/issues"
+  },
+  "homepage": "https://github.com/brandly/presidential-election-data#readme"
+}

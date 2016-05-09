@@ -1,8 +1,8 @@
 const path = require('path')
 const fs = require('fs')
 const _ = require('lodash')
+const years = require('./supported-years')
 
-const years = ['1992', '1996', '2000', '2004', '2008', '2012']
 years.forEach(createJsonForCsv)
 
 function createJsonForCsv (year) {
