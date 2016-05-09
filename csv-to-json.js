@@ -26,15 +26,16 @@ function buildDataSet (rows) {
 
   const uselessLeadingRowsCount = rows[lastUselessRow].includes('(R)') ? lastUselessRow : lastUselessRow + 1
 
-  const headers = rows[uselessLeadingRowsCount]
-  const candidates = extractCandidates(headers)
+  const headerCells = rows[uselessLeadingRowsCount].split(',')
+  const candidatesIndices = getCandidatesIndices(headerCells)
+  const candidates = extractCandidates(headerCells, candidatesIndices)
 
   const firstStateIndex = uselessLeadingRowsCount + 1
   const numberOfStates = 50
 
   const stateRows = rows.slice(firstStateIndex, firstStateIndex + numberOfStates + 1)
 
-  const stateData = stateRows.map(extractStateData)
+  const stateData = stateRows.map(extractStateData.bind(null, candidatesIndices.demBeforeRep))
   const votes = Object.assign.apply(Object, stateData)
 
   return {
@@ -43,13 +44,23 @@ function buildDataSet (rows) {
   }
 }
 
-function extractCandidates (row) {
-  const cells = row.split(',')
+function getCandidatesIndices (cells) {
   const theD = ' (D)'
   const theR = ' (R)'
 
-  const democratSplits = _.find(cells, (c) => c.endsWith(theD)).split(' ')
-  const republicanSplits = _.find(cells, (c) => c.endsWith(theR)).split(' ')
+  const democrat = _.findIndex(cells, (c) => c.endsWith(theD))
+  const republican = _.findIndex(cells, (c) => c.endsWith(theR))
+
+  return {
+    democrat,
+    republican,
+    demBeforeRep: democrat < republican
+  }
+}
+
+function extractCandidates (cells, indices) {
+  const democratSplits = cells[indices.democrat].split(' ')
+  const republicanSplits = cells[indices.republican].split(' ')
 
   return {
     democrat: democratSplits[democratSplits.length - 2],
@@ -57,7 +68,7 @@ function extractCandidates (row) {
   }
 }
 
-function extractStateData (row) {
+function extractStateData (demBeforeRep, row) {
   const cells = row.split(',')
   const state = cells[0]
 
@@ -84,14 +95,14 @@ function extractStateData (row) {
   }
 
   return {
-    [state]: {
+    [state.toUpperCase()]: {
       electoral: {
-        democrat: safelyParseInt(cells[1]),
-        republican: safelyParseInt(cells[2])
+        democrat: safelyParseInt(cells[demBeforeRep ? 1 : 2]),
+        republican: safelyParseInt(cells[demBeforeRep ? 2 : 1])
       },
       popular: {
-        democrat: safelyParseInt(popular[0]),
-        republican: safelyParseInt(popular[1]),
+        democrat: safelyParseInt(popular[demBeforeRep ? 0 : 1]),
+        republican: safelyParseInt(popular[demBeforeRep ? 1 : 0]),
         other: safelyParseInt(popular[2])
       }
     }

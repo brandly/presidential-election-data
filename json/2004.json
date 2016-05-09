@@ -6,562 +6,562 @@
   "votes": {
     "AL": {
       "electoral": {
-        "democrat": 9,
-        "republican": 0
+        "democrat": 0,
+        "republican": 9
       },
       "popular": {
-        "democrat": 1176394,
-        "republican": 693933,
+        "democrat": 693933,
+        "republican": 1176394,
         "other": 13122
       }
     },
     "AK": {
       "electoral": {
-        "democrat": 3,
-        "republican": 0
+        "democrat": 0,
+        "republican": 3
       },
       "popular": {
-        "democrat": 190889,
-        "republican": 111025,
+        "democrat": 111025,
+        "republican": 190889,
         "other": 10684
       }
     },
     "AZ": {
       "electoral": {
-        "democrat": 10,
-        "republican": 0
+        "democrat": 0,
+        "republican": 10
       },
       "popular": {
-        "democrat": 1104294,
-        "republican": 893524,
+        "democrat": 893524,
+        "republican": 1104294,
         "other": 14767
       }
     },
     "AR": {
       "electoral": {
-        "democrat": 6,
-        "republican": 0
+        "democrat": 0,
+        "republican": 6
       },
       "popular": {
-        "democrat": 572898,
-        "republican": 469953,
+        "democrat": 469953,
+        "republican": 572898,
         "other": 12094
       }
     },
     "CA": {
       "electoral": {
-        "democrat": 0,
-        "republican": 55
+        "democrat": 55,
+        "republican": 0
       },
       "popular": {
-        "democrat": 5509826,
-        "republican": 6745485,
+        "democrat": 6745485,
+        "republican": 5509826,
         "other": 166541
       }
     },
     "CO": {
       "electoral": {
-        "democrat": 9,
-        "republican": 0
+        "democrat": 0,
+        "republican": 9
       },
       "popular": {
-        "democrat": 1101255,
-        "republican": 1001732,
+        "democrat": 1001732,
+        "republican": 1101255,
         "other": 27343
       }
     },
     "CT": {
       "electoral": {
-        "democrat": 0,
-        "republican": 7
+        "democrat": 7,
+        "republican": 0
       },
       "popular": {
-        "democrat": 693826,
-        "republican": 857488,
+        "democrat": 857488,
+        "republican": 693826,
         "other": 27455
       }
     },
     "DE": {
       "electoral": {
-        "democrat": 0,
-        "republican": 3
+        "democrat": 3,
+        "republican": 0
       },
       "popular": {
-        "democrat": 171660,
-        "republican": 200152,
+        "democrat": 200152,
+        "republican": 171660,
         "other": 3378
       }
     },
     "DC": {
       "electoral": {
-        "democrat": 0,
-        "republican": 3
+        "democrat": 3,
+        "republican": 0
       },
       "popular": {
-        "democrat": 21256,
-        "republican": 202970,
+        "democrat": 202970,
+        "republican": 21256,
         "other": 3360
       }
     },
     "FL": {
       "electoral": {
-        "democrat": 27,
-        "republican": 0
+        "democrat": 0,
+        "republican": 27
       },
       "popular": {
-        "democrat": 3964522,
-        "republican": 3583544,
+        "democrat": 3583544,
+        "republican": 3964522,
         "other": 61744
       }
     },
     "GA": {
       "electoral": {
-        "democrat": 15,
-        "republican": 0
+        "democrat": 0,
+        "republican": 15
       },
       "popular": {
-        "democrat": 1914254,
-        "republican": 1366149,
+        "democrat": 1366149,
+        "republican": 1914254,
         "other": 21472
       }
     },
     "HI": {
       "electoral": {
-        "democrat": 0,
-        "republican": 4
+        "democrat": 4,
+        "republican": 0
       },
       "popular": {
-        "democrat": 194191,
-        "republican": 231708,
+        "democrat": 231708,
+        "republican": 194191,
         "other": 3114
       }
     },
     "ID": {
       "electoral": {
-        "democrat": 4,
-        "republican": 0
+        "democrat": 0,
+        "republican": 4
       },
       "popular": {
-        "democrat": 409235,
-        "republican": 181098,
+        "democrat": 181098,
+        "republican": 409235,
         "other": 8114
       }
     },
     "IL": {
       "electoral": {
-        "democrat": 0,
-        "republican": 21
+        "democrat": 21,
+        "republican": 0
       },
       "popular": {
-        "democrat": 2345946,
-        "republican": 2891550,
+        "democrat": 2891550,
+        "republican": 2345946,
         "other": 36826
       }
     },
     "IN": {
       "electoral": {
-        "democrat": 11,
-        "republican": 0
+        "democrat": 0,
+        "republican": 11
       },
       "popular": {
-        "democrat": 1479438,
-        "republican": 969011,
+        "democrat": 969011,
+        "republican": 1479438,
         "other": 19553
       }
     },
     "IA": {
       "electoral": {
-        "democrat": 7,
-        "republican": 0
+        "democrat": 0,
+        "republican": 7
       },
       "popular": {
-        "democrat": 751957,
-        "republican": 741898,
+        "democrat": 741898,
+        "republican": 751957,
         "other": 13053
       }
     },
     "KS": {
       "electoral": {
-        "democrat": 6,
-        "republican": 0
+        "democrat": 0,
+        "republican": 6
       },
       "popular": {
-        "democrat": 736456,
-        "republican": 434993,
+        "democrat": 434993,
+        "republican": 736456,
         "other": 16307
       }
     },
     "KY": {
       "electoral": {
-        "democrat": 8,
-        "republican": 0
+        "democrat": 0,
+        "republican": 8
       },
       "popular": {
-        "democrat": 1069439,
-        "republican": 712733,
+        "democrat": 712733,
+        "republican": 1069439,
         "other": 13710
       }
     },
     "LA": {
       "electoral": {
-        "democrat": 9,
-        "republican": 0
+        "democrat": 0,
+        "republican": 9
       },
       "popular": {
-        "democrat": 1102169,
-        "republican": 820299,
+        "democrat": 820299,
+        "republican": 1102169,
         "other": 20638
       }
     },
     "ME": {
       "electoral": {
-        "democrat": 0,
-        "republican": 4
+        "democrat": 4,
+        "republican": 0
       },
       "popular": {
-        "democrat": 330201,
-        "republican": 396842,
+        "democrat": 396842,
+        "republican": 330201,
         "other": 13709
       }
     },
     "MD": {
       "electoral": {
-        "democrat": 0,
-        "republican": 10
+        "democrat": 10,
+        "republican": 0
       },
       "popular": {
-        "democrat": 1024703,
-        "republican": 1334493,
+        "democrat": 1334493,
+        "republican": 1024703,
         "other": 27482
       }
     },
     "MA": {
       "electoral": {
-        "democrat": 0,
-        "republican": 12
+        "democrat": 12,
+        "republican": 0
       },
       "popular": {
-        "democrat": 1071109,
-        "republican": 1803800,
+        "democrat": 1803800,
+        "republican": 1071109,
         "other": 37479
       }
     },
     "MI": {
       "electoral": {
-        "democrat": 0,
-        "republican": 17
+        "democrat": 17,
+        "republican": 0
       },
       "popular": {
-        "democrat": 2313746,
-        "republican": 2479183,
+        "democrat": 2479183,
+        "republican": 2313746,
         "other": 46323
       }
     },
     "MN": {
       "electoral": {
-        "democrat": 0,
-        "republican": 9
+        "democrat": 9,
+        "republican": 0
       },
       "popular": {
-        "democrat": 1346695,
-        "republican": 1445014,
+        "democrat": 1445014,
+        "republican": 1346695,
         "other": 36678
       }
     },
     "MS": {
       "electoral": {
-        "democrat": 6,
-        "republican": 0
+        "democrat": 0,
+        "republican": 6
       },
       "popular": {
-        "democrat": 684981,
-        "republican": 458094,
+        "democrat": 458094,
+        "republican": 684981,
         "other": 9070
       }
     },
     "MO": {
       "electoral": {
-        "democrat": 11,
-        "republican": 0
+        "democrat": 0,
+        "republican": 11
       },
       "popular": {
-        "democrat": 1455713,
-        "republican": 1259171,
+        "democrat": 1259171,
+        "republican": 1455713,
         "other": 16480
       }
     },
     "MT": {
       "electoral": {
-        "democrat": 3,
-        "republican": 0
+        "democrat": 0,
+        "republican": 3
       },
       "popular": {
-        "democrat": 266063,
-        "republican": 173710,
+        "democrat": 173710,
+        "republican": 266063,
         "other": 10672
       }
     },
     "NE": {
       "electoral": {
-        "democrat": 5,
-        "republican": 0
+        "democrat": 0,
+        "republican": 5
       },
       "popular": {
-        "democrat": 512814,
-        "republican": 254328,
+        "democrat": 254328,
+        "republican": 512814,
         "other": 11044
       }
     },
     "NV": {
       "electoral": {
-        "democrat": 5,
-        "republican": 0
+        "democrat": 0,
+        "republican": 5
       },
       "popular": {
-        "democrat": 418690,
-        "republican": 397190,
+        "democrat": 397190,
+        "republican": 418690,
         "other": 13707
       }
     },
     "NH": {
       "electoral": {
-        "democrat": 0,
-        "republican": 4
+        "democrat": 4,
+        "republican": 0
       },
       "popular": {
-        "democrat": 331237,
-        "republican": 340511,
+        "democrat": 340511,
+        "republican": 331237,
         "other": 5990
       }
     },
     "NJ": {
       "electoral": {
-        "democrat": 0,
-        "republican": 15
+        "democrat": 15,
+        "republican": 0
       },
       "popular": {
-        "democrat": 1670003,
-        "republican": 1911430,
+        "democrat": 1911430,
+        "republican": 1670003,
         "other": 30258
       }
     },
     "NM": {
       "electoral": {
-        "democrat": 5,
-        "republican": 0
+        "democrat": 0,
+        "republican": 5
       },
       "popular": {
-        "democrat": 376930,
-        "republican": 370942,
+        "democrat": 370942,
+        "republican": 376930,
         "other": 8432
       }
     },
     "NY": {
       "electoral": {
-        "democrat": 0,
-        "republican": 31
+        "democrat": 31,
+        "republican": 0
       },
       "popular": {
-        "democrat": 2962567,
-        "republican": 4314280,
+        "democrat": 4314280,
+        "republican": 2962567,
         "other": 114189
       }
     },
     "NC": {
       "electoral": {
-        "democrat": 15,
-        "republican": 0
+        "democrat": 0,
+        "republican": 15
       },
       "popular": {
-        "democrat": 1961166,
-        "republican": 1525849,
+        "democrat": 1525849,
+        "republican": 1961166,
         "other": 13992
       }
     },
     "ND": {
       "electoral": {
-        "democrat": 3,
-        "republican": 0
+        "democrat": 0,
+        "republican": 3
       },
       "popular": {
-        "democrat": 196651,
-        "republican": 111052,
+        "democrat": 111052,
+        "republican": 196651,
         "other": 5130
       }
     },
     "OH": {
       "electoral": {
-        "democrat": 20,
-        "republican": 0
+        "democrat": 0,
+        "republican": 20
       },
       "popular": {
-        "democrat": 2859768,
-        "republican": 2741167,
+        "democrat": 2741167,
+        "republican": 2859768,
         "other": 26973
       }
     },
     "OK": {
       "electoral": {
-        "democrat": 7,
-        "republican": 0
+        "democrat": 0,
+        "republican": 7
       },
       "popular": {
-        "democrat": 959792,
-        "republican": 503966,
+        "democrat": 503966,
+        "republican": 959792,
         "other": 0
       }
     },
     "OR": {
       "electoral": {
-        "democrat": 0,
-        "republican": 7
+        "democrat": 7,
+        "republican": 0
       },
       "popular": {
-        "democrat": 866831,
-        "republican": 943163,
+        "democrat": 943163,
+        "republican": 866831,
         "other": 26788
       }
     },
     "PA": {
       "electoral": {
-        "democrat": 0,
-        "republican": 21
+        "democrat": 21,
+        "republican": 0
       },
       "popular": {
-        "democrat": 2793847,
-        "republican": 2938095,
+        "democrat": 2938095,
+        "republican": 2793847,
         "other": 37648
       }
     },
     "RI": {
       "electoral": {
-        "democrat": 0,
-        "republican": 4
+        "democrat": 4,
+        "republican": 0
       },
       "popular": {
-        "democrat": 169046,
-        "republican": 259765,
+        "democrat": 259765,
+        "republican": 169046,
         "other": 8323
       }
     },
     "SC": {
       "electoral": {
-        "democrat": 8,
-        "republican": 0
+        "democrat": 0,
+        "republican": 8
       },
       "popular": {
-        "democrat": 937974,
-        "republican": 661699,
+        "democrat": 661699,
+        "republican": 937974,
         "other": 18057
       }
     },
     "SD": {
       "electoral": {
-        "democrat": 3,
-        "republican": 0
+        "democrat": 0,
+        "republican": 3
       },
       "popular": {
-        "democrat": 232584,
-        "republican": 149244,
+        "democrat": 149244,
+        "republican": 232584,
         "other": 6387
       }
     },
     "TN": {
       "electoral": {
-        "democrat": 11,
-        "republican": 0
+        "democrat": 0,
+        "republican": 11
       },
       "popular": {
-        "democrat": 1384375,
-        "republican": 1036477,
+        "democrat": 1036477,
+        "republican": 1384375,
         "other": 16467
       }
     },
     "TX": {
       "electoral": {
-        "democrat": 34,
-        "republican": 0
+        "democrat": 0,
+        "republican": 34
       },
       "popular": {
-        "democrat": 4526917,
-        "republican": 2832704,
+        "democrat": 2832704,
+        "republican": 4526917,
         "other": 51144
       }
     },
     "UT": {
       "electoral": {
-        "democrat": 5,
-        "republican": 0
+        "democrat": 0,
+        "republican": 5
       },
       "popular": {
-        "democrat": 663742,
-        "republican": 241199,
+        "democrat": 241199,
+        "republican": 663742,
         "other": 22903
       }
     },
     "VT": {
       "electoral": {
-        "democrat": 0,
-        "republican": 3
+        "democrat": 3,
+        "republican": 0
       },
       "popular": {
-        "democrat": 121180,
-        "republican": 184067,
+        "democrat": 184067,
+        "republican": 121180,
         "other": 7062
       }
     },
     "VA": {
       "electoral": {
-        "democrat": 13,
-        "republican": 0
+        "democrat": 0,
+        "republican": 13
       },
       "popular": {
-        "democrat": 1716959,
-        "republican": 1454742,
+        "democrat": 1454742,
+        "republican": 1716959,
         "other": 26666
       }
     },
     "WA": {
       "electoral": {
-        "democrat": 0,
-        "republican": 11
+        "democrat": 11,
+        "republican": 0
       },
       "popular": {
-        "democrat": 1304894,
-        "republican": 1510201,
+        "democrat": 1510201,
+        "republican": 1304894,
         "other": 43989
       }
     },
     "WV": {
       "electoral": {
-        "democrat": 5,
-        "republican": 0
+        "democrat": 0,
+        "republican": 5
       },
       "popular": {
-        "democrat": 423778,
-        "republican": 326541,
+        "democrat": 326541,
+        "republican": 423778,
         "other": 5568
       }
     },
     "WI": {
       "electoral": {
-        "democrat": 0,
-        "republican": 10
+        "democrat": 10,
+        "republican": 0
       },
       "popular": {
-        "democrat": 1478120,
-        "republican": 1489504,
+        "democrat": 1489504,
+        "republican": 1478120,
         "other": 29383
       }
     },
     "WY": {
       "electoral": {
-        "democrat": 3,
-        "republican": 0
+        "democrat": 0,
+        "republican": 3
       },
       "popular": {
-        "democrat": 167629,
-        "republican": 70776,
+        "democrat": 70776,
+        "republican": 167629,
         "other": 5023
       }
     }
