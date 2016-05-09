@@ -4,6 +4,14 @@ unofficial repository, no affiliation with the FEC
 
 data extracted from here http://www.fec.gov/pubrec/electionresults.shtml
 
+### install
+
+```shell
+$ npm install --save presidential-election-data
+```
+
+view any files in `./json` to see how the data is formatted
+
 ### goal
 
 set the data free with consistently-formatted JSON
