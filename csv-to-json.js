@@ -36,7 +36,7 @@ function buildDataSet (rows) {
   const stateRows = rows.slice(firstStateIndex, firstStateIndex + numberOfStates + 1)
 
   const stateData = stateRows.map(extractStateData.bind(null, candidatesIndices.demBeforeRep))
-  const votes = Object.assign.apply(Object,  _.sortBy(stateData, (vote) => Object.keys(vote)[0]))
+  const votes = Object.assign.apply(Object, _.sortBy(stateData, (vote) => Object.keys(vote)[0]))
 
   return {
     candidates,

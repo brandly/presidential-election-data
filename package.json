@@ -7,10 +7,11 @@
     "lodash": "4.12.0"
   },
   "devDependencies": {
+    "standard": "7.0.1",
     "superagent": "1.8.3"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "standard"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/brandly/presidential-election-data/issues"
   },
-  "homepage": "https://github.com/brandly/presidential-election-data#readme"
+  "homepage": "https://github.com/brandly/presidential-election-data#readme",
+  "standard": {
+    "ignore": [
+      "270towin/"
+    ]
+  }
 }
