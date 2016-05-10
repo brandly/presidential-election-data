@@ -1,7 +1,7 @@
 const path = require('path')
 const fs = require('fs')
 const _ = require('lodash')
-const years = require('./supported-years')
+const years = require('./supported-years').csv
 
 years.forEach(createJsonForCsv)
 
