@@ -1,4 +1,4 @@
-# presidential election data
+# presidential election data [![Build Status](https://travis-ci.org/brandly/presidential-election-data.svg?branch=master)](https://travis-ci.org/brandly/presidential-election-data)
 
 unofficial repository, no affiliation with the FEC
 
