@@ -1,12 +1,14 @@
 {
   "name": "presidential-election-data",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "unofficial repository, no affiliation with the FEC",
   "main": "index.js",
   "dependencies": {
     "lodash": "4.12.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "superagent": "1.8.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

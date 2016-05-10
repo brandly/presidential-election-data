@@ -35,7 +35,8 @@ function buildDataSet (data) {
   })
 
   function getCandidateByParty (abbr) {
-    return  _.find(partiesList, (party) => party.abbr === abbr).can_last_name
+    // Using party.abbr[0] so that 'D' matches 'D-P'
+    return  _.find(partiesList, (party) => party.abbr[0] === abbr).can_last_name
   }
 
   return {

@@ -1,0 +1,314 @@
+{
+  "candidates": {
+    "democrat": "Smith",
+    "republican": "Hoover"
+  },
+  "votes": {
+    "AK": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 0
+      }
+    },
+    "AL": {
+      "electoral": {
+        "democrat": 12,
+        "republican": 0
+      }
+    },
+    "AR": {
+      "electoral": {
+        "democrat": 9,
+        "republican": 0
+      }
+    },
+    "AZ": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 3
+      }
+    },
+    "CA": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 13
+      }
+    },
+    "CO": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 6
+      }
+    },
+    "CT": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 7
+      }
+    },
+    "DC": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 0
+      }
+    },
+    "DE": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 3
+      }
+    },
+    "FL": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 6
+      }
+    },
+    "GA": {
+      "electoral": {
+        "democrat": 14,
+        "republican": 0
+      }
+    },
+    "HI": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 0
+      }
+    },
+    "IA": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 13
+      }
+    },
+    "ID": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 4
+      }
+    },
+    "IL": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 29
+      }
+    },
+    "IN": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 15
+      }
+    },
+    "KS": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 10
+      }
+    },
+    "KY": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 13
+      }
+    },
+    "LA": {
+      "electoral": {
+        "democrat": 10,
+        "republican": 0
+      }
+    },
+    "MA": {
+      "electoral": {
+        "democrat": 18,
+        "republican": 0
+      }
+    },
+    "MD": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 8
+      }
+    },
+    "ME": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 6
+      }
+    },
+    "MI": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 15
+      }
+    },
+    "MN": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 12
+      }
+    },
+    "MO": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 18
+      }
+    },
+    "MS": {
+      "electoral": {
+        "democrat": 10,
+        "republican": 0
+      }
+    },
+    "MT": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 4
+      }
+    },
+    "NC": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 12
+      }
+    },
+    "ND": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 5
+      }
+    },
+    "NE": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 8
+      }
+    },
+    "NH": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 4
+      }
+    },
+    "NJ": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 14
+      }
+    },
+    "NM": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 3
+      }
+    },
+    "NV": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 3
+      }
+    },
+    "NY": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 45
+      }
+    },
+    "OH": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 24
+      }
+    },
+    "OK": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 10
+      }
+    },
+    "OR": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 5
+      }
+    },
+    "PA": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 38
+      }
+    },
+    "RI": {
+      "electoral": {
+        "democrat": 5,
+        "republican": 0
+      }
+    },
+    "SC": {
+      "electoral": {
+        "democrat": 9,
+        "republican": 0
+      }
+    },
+    "SD": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 5
+      }
+    },
+    "TN": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 12
+      }
+    },
+    "TX": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 20
+      }
+    },
+    "UT": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 4
+      }
+    },
+    "VA": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 12
+      }
+    },
+    "VT": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 4
+      }
+    },
+    "WA": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 7
+      }
+    },
+    "WI": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 13
+      }
+    },
+    "WV": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 8
+      }
+    },
+    "WY": {
+      "electoral": {
+        "democrat": 0,
+        "republican": 3
+      }
+    }
+  }
+}
