@@ -24,7 +24,7 @@ most of these from the FEC were downloaded as an `.xls`, converted to a `.csv`, 
 
 some of them went `.html`/`.pdf` -> `.csv` -> `.json`, and required some manual, potentially error-prone formatting of the data.
 
-the data coming from 270towin was scraped by `scrap-270towin.js` into raw `.js`, which was then converted to `.json` by `270towin-to-json.js`.
+the data coming from 270towin was scraped by `scrape-270towin.js` into raw `.js`, which was then converted to `.json` by `270towin-to-json.js`.
 
 ### missing
 
