@@ -4,7 +4,7 @@
   "description": "unofficial repository, no affiliation with the FEC",
   "main": "index.js",
   "dependencies": {
-    "lodash": "4.12.0"
+    "lodash": "4.17.15"
   },
   "devDependencies": {
     "standard": "7.0.1",
