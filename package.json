@@ -1,6 +1,6 @@
 {
   "name": "presidential-election-data",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "unofficial repository, no affiliation with the FEC",
   "main": "index.js",
   "dependencies": {
