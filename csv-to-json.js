@@ -75,7 +75,7 @@ function extractStateData (demBeforeRep, row) {
   // This is a mess but since we're blinding splitting on ',', we gotta
   // do some snooping around to find numbers that are like `"123,456"`
   const popular = []
-  var i = 3
+  let i = 3
   while (popular.length < 3) {
     if (cells[i][0] !== '"' && _.last(cells[i]) !== '"') {
       popular.push(cells[i])
