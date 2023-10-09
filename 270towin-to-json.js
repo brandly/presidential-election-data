@@ -47,4 +47,3 @@ function buildDataSet (data) {
     votes: Object.assign.apply(null, _.sortBy(votes, (vote) => Object.keys(vote)[0]))
   }
 }
-
