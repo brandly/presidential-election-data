@@ -248,8 +248,8 @@
     },
     "MI": {
       "electoral": {
-        "democrat": 15,
-        "republican": 0
+        "democrat": 0,
+        "republican": 15
       },
       "popular": {
         "democrat": 2736533,
@@ -314,8 +314,8 @@
     },
     "NV": {
       "electoral": {
-        "democrat": 6,
-        "republican": 0
+        "democrat": 0,
+        "republican": 6
       },
       "popular": {
         "democrat": 705197,
@@ -424,8 +424,8 @@
     },
     "PA": {
       "electoral": {
-        "democrat": 19,
-        "republican": 0
+        "democrat": 0,
+        "republican": 19
       },
       "popular": {
         "democrat": 3423042,
