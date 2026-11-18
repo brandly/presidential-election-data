@@ -78,7 +78,7 @@
       "popular": {
         "democrat": 682318,
         "republican": 578313,
-        "other": 348
+        "other": 348771
       }
     },
     "DC": {
@@ -109,9 +109,9 @@
         "republican": 25
       },
       "popular": {
-        "democrat": 2,
+        "democrat": 2072798,
         "republican": 2173310,
-        "other": 72
+        "other": 1053067
       }
     },
     "GA": {
@@ -307,9 +307,9 @@
         "republican": 14
       },
       "popular": {
-        "democrat": 1,
+        "democrat": 1114042,
         "republican": 1134661,
-        "other": 114042
+        "other": 357864
       }
     },
     "ND": {
