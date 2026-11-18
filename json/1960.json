@@ -12,7 +12,7 @@
     },
     "AL": {
       "electoral": {
-        "democrat": 11,
+        "democrat": 5,
         "republican": 0
       }
     },
@@ -156,7 +156,7 @@
     },
     "MS": {
       "electoral": {
-        "democrat": 8,
+        "democrat": 0,
         "republican": 0
       }
     },
@@ -223,7 +223,7 @@
     "OK": {
       "electoral": {
         "democrat": 0,
-        "republican": 8
+        "republican": 7
       }
     },
     "OR": {
