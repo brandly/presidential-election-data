@@ -12,13 +12,13 @@
     },
     "AL": {
       "electoral": {
-        "democrat": 0,
+        "democrat": 11,
         "republican": 0
       }
     },
     "AR": {
       "electoral": {
-        "democrat": 0,
+        "democrat": 8,
         "republican": 0
       }
     },
@@ -36,7 +36,7 @@
     },
     "CO": {
       "electoral": {
-        "democrat": 0,
+        "democrat": 4,
         "republican": 0
       }
     },
@@ -60,13 +60,13 @@
     },
     "FL": {
       "electoral": {
-        "democrat": 0,
+        "democrat": 4,
         "republican": 0
       }
     },
     "GA": {
       "electoral": {
-        "democrat": 0,
+        "democrat": 13,
         "republican": 0
       }
     },
@@ -84,7 +84,7 @@
     },
     "ID": {
       "electoral": {
-        "democrat": 0,
+        "democrat": 3,
         "republican": 0
       }
     },
@@ -108,13 +108,13 @@
     },
     "KY": {
       "electoral": {
-        "democrat": 0,
+        "democrat": 13,
         "republican": 0
       }
     },
     "LA": {
       "electoral": {
-        "democrat": 0,
+        "democrat": 8,
         "republican": 0
       }
     },
@@ -150,25 +150,25 @@
     },
     "MO": {
       "electoral": {
-        "democrat": 0,
+        "democrat": 17,
         "republican": 0
       }
     },
     "MS": {
       "electoral": {
-        "democrat": 0,
+        "democrat": 9,
         "republican": 0
       }
     },
     "MT": {
       "electoral": {
-        "democrat": 0,
+        "democrat": 3,
         "republican": 0
       }
     },
     "NC": {
       "electoral": {
-        "democrat": 0,
+        "democrat": 11,
         "republican": 0
       }
     },
@@ -204,7 +204,7 @@
     },
     "NV": {
       "electoral": {
-        "democrat": 0,
+        "democrat": 3,
         "republican": 0
       }
     },
@@ -246,7 +246,7 @@
     },
     "SC": {
       "electoral": {
-        "democrat": 0,
+        "democrat": 9,
         "republican": 0
       }
     },
@@ -258,13 +258,13 @@
     },
     "TN": {
       "electoral": {
-        "democrat": 0,
+        "democrat": 12,
         "republican": 0
       }
     },
     "TX": {
       "electoral": {
-        "democrat": 0,
+        "democrat": 15,
         "republican": 0
       }
     },
@@ -276,7 +276,7 @@
     },
     "VA": {
       "electoral": {
-        "democrat": 0,
+        "democrat": 12,
         "republican": 0
       }
     },

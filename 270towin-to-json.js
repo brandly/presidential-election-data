@@ -16,33 +16,30 @@ function createJson (year) {
 }
 
 function buildDataSet (data) {
+  // Using party.abbr[0] so that 'D' matches 'D-P'. Take the first match
+  // because a later party can share the prefix (1960's Byrd is also 'D').
+  const democrat = _.findKey(data.parties, (party) => party.abbr[0] === 'D')
+  const republican = _.findKey(data.parties, (party) => party.abbr[0] === 'R')
+
   const votes = Object.keys(data.states).map((key) => {
     const state = data.states[key]
-    const party = data.parties[state.outcome]
 
+    // state.parties maps party key -> electoral votes, which covers states
+    // that split their votes or had faithless electors
     return {
       [state.state_abbr.toUpperCase()]: {
         electoral: {
-          democrat: party && party.abbr === 'D' ? state.e_votes : 0,
-          republican: party && party.abbr === 'R' ? state.e_votes : 0
+          democrat: parseInt(state.parties[democrat] || 0, 10),
+          republican: parseInt(state.parties[republican] || 0, 10)
         }
       }
     }
   })
 
-  const partiesList = Object.keys(data.parties).map((key) => {
-    return data.parties[key]
-  })
-
-  function getCandidateByParty (abbr) {
-    // Using party.abbr[0] so that 'D' matches 'D-P'
-    return _.find(partiesList, (party) => party.abbr[0] === abbr).can_last_name
-  }
-
   return {
     candidates: {
-      democrat: getCandidateByParty('D'),
-      republican: getCandidateByParty('R')
+      democrat: data.parties[democrat].can_last_name,
+      republican: data.parties[republican].can_last_name
     },
     votes: Object.assign.apply(null, _.sortBy(votes, (vote) => Object.keys(vote)[0]))
   }

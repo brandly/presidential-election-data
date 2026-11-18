@@ -300,8 +300,8 @@
     },
     "WV": {
       "electoral": {
-        "democrat": 0,
-        "republican": 8
+        "democrat": 1,
+        "republican": 7
       }
     },
     "WY": {
